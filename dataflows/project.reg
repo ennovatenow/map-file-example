@@ -1,3 +1,4 @@
 Setup the staging area,setup
 Load data into staging,load
+Transform data from source to destination,transform
 Spool the file,spool
